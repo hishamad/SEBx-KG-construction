@@ -5,9 +5,9 @@ import ast
 
 api_key = open(".openai_api_key", "r").read()
 
-ner_prompt = open("ner_models/NER_prompt.txt", "r").read()
+triplet_prompt = open("triplet_models/triplet_prompt.txt", "r").read()
 
-def ner_gpt(input_text):
+def triplet_gpt(input_text):
     client = OpenAI(api_key=api_key)
     completion = client.chat.completions.create(
         temperature=0.5,
@@ -15,7 +15,7 @@ def ner_gpt(input_text):
         messages=[
             {
                 "role": "system",
-                "content": ner_prompt
+                "content": triplet_prompt
             },
             {
                 "role": "user",
