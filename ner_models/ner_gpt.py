@@ -5,7 +5,7 @@ import ast
 
 api_key = open(".openai_api_key", "r").read()
 
-ner_prompt = open("NER_prompt.txt", "r").read()
+ner_prompt = open("ner_models/NER_prompt.txt", "r").read()
 
 def ner_gpt(input_text):
     client = OpenAI(api_key=api_key)
