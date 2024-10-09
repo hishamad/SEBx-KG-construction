@@ -1,0 +1,18 @@
+Perform Named Entity Recognition (NER). NER identifies named entities of given entity types.
+Note that the entities should not be generic, numerical or temporal (like dates or percentages). Entities must be classified into the following categories: ORG: Organizations other than government or regulatory bodies
+ORGGOV: Government bodies (e.g., "United States Government")
+ORGREG: Regulatory bodies (e.g., "Federal Reserve")
+PERSON: Individuals (e.g., "Elon Musk")
+GPE: Geopolitical entities such as countries, cities, etc. (e.g., "Germany")
+COMP: Companies (e.g., "Google")
+PRODUCT: Products or services (e.g., "iPhone")
+EVENT: Specific and Material Events (e.g., "Olympic Games", "Covid-19")
+SECTOR: Company sectors or industries (e.g., "Technology sector")
+ECON_INDICATOR: Economic indicators (e.g., "Inflation rate"), numerical value like "10%" is not a ECON_INDICATOR; FIN_INSTRUMENT: Financial and market instruments (e.g., "Stocks", "Global Markets")
+CONCEPT: Abstract ideas or notions or themes (e.g., "Inflation", "AI", "Climate Change")
+From this text, your output Must be in python dict made up of nested list made up of ['entity', 'type']
+As an Example, consider the following news excerpt:
+Input: 'Apple Inc. is set to introduce the new iPhone 14 in the technology sector this month. The product's release is likely to positively impact Apple's stock value.' 
+OUTPUT LIST:[['Apple Inc.', 'COMP'], ['iPhone 14', 'PRODUCT'], ['Technology Sector', 'SECTOR'], ['Apple Stock Value', 'FIN_INSTRUMENT']]. 
+Finally, convert this into a dictionary {"entity":["Apple Inc.", "iPhone 14", "Technology Sector", "Apple Stock Value"], "entity_type":["COMP", "PRODUCT", "SECTOR", "FIN_INSTRUMENT"]}
+You must only return the dictionary and nothing more.
