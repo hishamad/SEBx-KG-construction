@@ -1,0 +1,53 @@
+import fireworks.client
+fireworks.client.api_key = open(".fireworksAI", "r").read().strip()
+
+
+def triplet_llma(text):
+    
+    prompt = open("triplet_models/triplet_prompt.txt", "r").read()
+    
+    response = fireworks.client.ChatCompletion.create(
+        temperature=0.5,
+        model="accounts/fireworks/models/llama-v3p2-11b-vision-instruct", 
+        messages=[
+            {
+                "role": "system",
+                "content": prompt
+            },
+            {
+                "role": "user",
+                "content": 
+                f"""
+                    Input text: {text},
+                """
+            }
+        ]
+    )
+    
+    result = response.choices[0].message.content
+    
+    return result
+
+test = '''
+Perform Named Entity Recognition (NER) and extract knowledge graph triplets from the text. NER identifies named entities of given entity types, and triplet extraction identifies relationships between entities using specified predicates.
+Note that the entities should not be generic, numerical or temporal (like dates or percentages). 
+Entities must be classified into the following categories: 
+ORG: Organizations other than government or regulatory bodies
+ORGGOV: Government bodies (e.g., "United States Government")
+ORGREG: Regulatory bodies (e.g., "Federal Reserve")
+PERSON: Individuals (e.g., "Elon Musk")
+GPE: Geopolitical entities such as countries, cities, etc. (e.g., "Germany")
+COMP: Companies (e.g., "Google")
+PRODUCT: Products or services (e.g., "iPhone")
+EVENT: Specific and Material Events (e.g., "Olympic Games", "Covid-19")
+SECTOR: Company sectors or industries (e.g., "Technology sector")
+ECON_INDICATOR: Economic indicators (e.g., "Inflation rate"), numerical value like "10%" is not a ECON_INDICATOR; FIN_INSTRUMENT: Financial and market instruments (e.g., "Stocks", "Global Markets")
+CONCEPT: Abstract ideas or notions or themes (e.g., "Inflation", "AI", "Climate Change")
+The relationships 'r' between these entities must be represented by one of the following relation verbs set: Has, Announce, Operate_In, Introduce, Produce, Control, Participates_In, Impact, Positive_Impact_On, Negative_Impact_On, Relate_To, Is_Member_Of, Invests_In, Raise, Decrease. Remember to conduct entity disambiguation, consolidating different phrases or acronyms that refer to the same entity (for instance, "UK Central Bank", "BOE" and "Bank of England" should be unified as "Bank of England"). Simplify each entity of the triplet to be less than four words.
+From this text, your output must be a nested list made up of ['h', 'type', 'r', 'o', 'type'], where the relationship 'r' must be in the given relation verbs set above. Only output the list. 
+As an Example, consider the following news excerpt:
+Input: 'Apple Inc. is set to introduce the new iPhone 14 in the technology sector this month. The product's release is likely to positively impact Apple's stock value.' 
+OUTPUT LIST:[["Apple Inc.", "COMP", "Introduce", "iPhone 14", "PRODUCT"], ["Apple Inc.", "COMP", "Operate_In", "Technology Sector", "SECTOR"], ["iPhone 14", "PRODUCT", "Positive_Impact_On", "Apple's Stock Value", "FIN_INSTRUMENT"]] 
+Finally, convert this into a dictionary {"subject":["Apple Inc.","Apple Inc.","iPhone 14"], "subject_type":["COMP", "COMP", "PRODUCT"], "relationship"=["Introduce", "Operate_In", "Positive_Impact_On"], "object":["iPhone 14","iPhone 14","Apple's Stock Value"], "object_type"=["PRODUCT","SECTOR", "FIN_INSTRUMENT"]}
+You must only return the dictionary and nothing more.
+'''
