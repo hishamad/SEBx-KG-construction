@@ -4,7 +4,7 @@ fireworks.client.api_key = open(".fireworksAI", "r").read().strip()
 
 def triplet_llma(text):
     
-    prompt = open("triplet_models/triplet_prompt.txt", "r").read()
+    prompt = open("triplet_models/triplet_prompt_llama.txt", "r").read()
     
     response = fireworks.client.ChatCompletion.create(
         temperature=0.5,
