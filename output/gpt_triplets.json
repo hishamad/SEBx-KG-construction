@@ -1,0 +1,7318 @@
+[
+    {
+        "subject": [
+            "CapGen Capital Group VI LP",
+            "CapGen Capital Group VI LP"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Invests_In",
+            "Has"
+        ],
+        "object": [
+            "Union Bankshares Corp",
+            "Stake",
+            "Union Bankshares Corp"
+        ],
+        "object_type": [
+            "COMP",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Canada Pension Plan Investment Board",
+            "Canada Pension Plan Investment Board",
+            "Asian Development Bank"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Invests_In",
+            "Invests_In",
+            "Invests_In"
+        ],
+        "object": [
+            "Renew Power Ventures",
+            "Renew Power",
+            "Renew Power"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Bob Fenwick",
+            "BR Communications"
+        ],
+        "subject_type": [
+            "PERSON",
+            "COMP"
+        ],
+        "relationship": [
+            "Sell",
+            "Produce"
+        ],
+        "object": [
+            "Hilltop Estate",
+            "Military-Communications Equipment"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Sears Holdings",
+            "Sears Holdings"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Close",
+            "Close"
+        ],
+        "object": [
+            "Kmart Stores",
+            "Sears Stores"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Roger Federer",
+            "Roger Federer"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "Australian Open",
+            "20th Grand Slam Title"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Argos Therapeutics",
+            "Argos Therapeutics"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "One-For-Twenty Reverse Stock Split",
+            "Common Stock Value"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Donald Trump",
+            "United States"
+        ],
+        "subject_type": [
+            "PERSON",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In"
+        ],
+        "object": [
+            "United States",
+            "NAFTA",
+            "EVENT"
+        ],
+        "object_type": [
+            "GPE",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "VT Industrial Technology Co Ltd",
+            "VT Industrial Technology Co Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Impact"
+        ],
+        "object": [
+            "FY 2017 Net Profit",
+            "Core Business Growth",
+            "ECON_INDICATOR",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Intermolecular Inc",
+            "Intermolecular Inc",
+            "Intermolecular Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Deliver",
+            "Work_Together"
+        ],
+        "object": [
+            "SITRI",
+            "Critical Unit Films",
+            "SITRI"
+        ],
+        "object_type": [
+            "ORG",
+            "PRODUCT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Brixmor Property Group Inc",
+            "Brixmor Operating Partnership LP"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "May Offer"
+        ],
+        "object": [
+            "Mixed Shelf Offering",
+            "Debt Securities"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "John Hancock",
+            "John Hancock"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Brooks Tingle",
+            "Linda Levyne"
+        ],
+        "object_type": [
+            "PERSON",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Toyou Feiji Electronics Co Ltd",
+            "Toyou Feiji Electronics Co Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Decrease",
+            "Relate_To"
+        ],
+        "object": [
+            "Net Profit",
+            "R&D Expenses",
+            "Software Product VAT Refund"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Narendra Modi",
+            "Narendra Modi",
+            "World Economic Forum"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "EVENT"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "World Economic Forum",
+            "Rising Protectionist Policies",
+            "Rising Protectionist Policies"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "General Electric",
+            "General Electric"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "Tax Changes and Insurance Portfolio",
+            "Shares"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Plaza Retail REIT",
+            "Plaza Retail REIT"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Acquires",
+            "Invests_In"
+        ],
+        "object": [
+            "Redevelopment Site",
+            "Redevelopment Site"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Federal Reserve",
+            "Federal Reserve"
+        ],
+        "subject_type": [
+            "ORGREG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Raise",
+            "Impact"
+        ],
+        "object": [
+            "Interest Rates",
+            "Banks",
+            "Banks"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ORG",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Versace",
+            "Versace"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Act of Fiction",
+            "The Assassination of Gianni Versace: American Crime Story",
+            "EVENT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Capita Plc",
+            "Capita Plc",
+            "Life and Pensions Operations"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Announce",
+            "Continue",
+            "Contribute"
+        ],
+        "object": [
+            "New Supplier",
+            "Prudential\u2019s International Operations",
+            "Revenue of \u00a380M",
+            "COMP"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Morgan Stanley"
+        ],
+        "subject_type": [
+            "COMP"
+        ],
+        "relationship": [
+            "Impact"
+        ],
+        "object": [
+            "U.S. Tax Code Overhaul",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Connecticut Democrats",
+            "Tony Guerrera"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Propose"
+        ],
+        "object": [
+            "Highway Tolls",
+            "Legislation"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Sudan",
+            "Sudan"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Recall"
+        ],
+        "object": [
+            "Ambassador to Egypt",
+            "Ambassador to Egypt"
+        ],
+        "object_type": [
+            "PERSON",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Floor & Decor Holdings Inc",
+            "Floor & Decor Holdings Inc",
+            "Floor & Decor Holdings Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Q4 Net Sales",
+            "Adjusted Diluted EPS",
+            "Q4 Comparable Store Sales Growth"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "S&P 500",
+            "Healthcare",
+            "Financial",
+            "Dow Jones Industrial Average",
+            "Nasdaq Composite"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "SECTOR",
+            "SECTOR",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ],
+        "relationship": [
+            "Impact",
+            "Weigh",
+            "Weigh",
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Earnings Season",
+            "S&P 500",
+            "S&P 500",
+            "Investors",
+            "Investors"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Wooriro Co Ltd"
+        ],
+        "subject_type": [
+            "COMP"
+        ],
+        "relationship": [
+            "Raise"
+        ],
+        "object": [
+            "Facilities and Investment",
+            "Operations"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "John Cornyn",
+            "Fox News Channel"
+        ],
+        "subject_type": [
+            "PERSON",
+            "ORG"
+        ],
+        "relationship": [
+            "Predict",
+            "Report"
+        ],
+        "object": [
+            "U.S. government",
+            "U.S. government shutdown"
+        ],
+        "object_type": [
+            "ORGGOV",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Bank of Japan",
+            "Bank of Japan"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Announce",
+            "Invests_In"
+        ],
+        "object": [
+            "BOJ's Announcement",
+            "Japanese Government Bonds"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Japan Petroleum Exploration Co Ltd",
+            "Japan Petroleum Exploration Co Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Impact"
+        ],
+        "object": [
+            "Shale Gas Project",
+            "Net Income"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "BP",
+            "BP",
+            "Deepwater Horizon Spill"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "EVENT"
+        ],
+        "relationship": [
+            "Raise",
+            "Impact",
+            "Relate_To"
+        ],
+        "object": [
+            "Deepwater Horizon Spill",
+            "Total Costs",
+            "BP"
+        ],
+        "object_type": [
+            "EVENT",
+            "ECON_INDICATOR",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Turkish Artillery",
+            "Ankara",
+            "Emily Wither"
+        ],
+        "subject_type": [
+            "ORG",
+            "GPE",
+            "PERSON"
+        ],
+        "relationship": [
+            "Impact",
+            "Announce",
+            "Reports"
+        ],
+        "object": [
+            "Afrin Region",
+            "Military Campaign",
+            "Military Campaign"
+        ],
+        "object_type": [
+            "GPE",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "NVIDIA Corp",
+            "NVIDIA Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Security Updates",
+            "Google Project Zero",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Republic Bancorp Inc",
+            "Republic Bancorp Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Increase"
+        ],
+        "object": [
+            "Quarterly Cash Dividends",
+            "Common Stock Cash Dividends"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Astellas Pharma Inc",
+            "Astellas Pharma Inc",
+            "Blinatumomab"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Announce",
+            "Introduce",
+            "Treat"
+        ],
+        "object": [
+            "Marketing Authorization",
+            "Blinatumomab",
+            "B-cell Precursor Acute Lymphoblastic Leukemia"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "PRODUCT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Amazon",
+            "Amazon"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Raise",
+            "Control"
+        ],
+        "object": [
+            "Prime Monthly Memberships",
+            "Amazon Prime"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Carnegie Hall",
+            "Carnegie Hall",
+            "David Crosby",
+            "Dance Theatre of Harlem",
+            "Kronos Quartet"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "PERSON",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "The '60s",
+            "The '60s",
+            "The '60s",
+            "The '60s",
+            "The '60s"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "eHealth Inc",
+            "eHealth Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Preliminary Results",
+            "Fiscal Year 2017"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Lockheed Martin Corp.",
+            "Lockheed Martin Corp.",
+            "Lockheed Martin Corp."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Invests_In",
+            "Invests_In",
+            "Make"
+        ],
+        "object": [
+            "Weapons Research",
+            "New Weapons and Training",
+            "$5 Billion Payment to Pension Fund"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Mike Pence",
+            "Mike Pence"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Immigration Deal",
+            "Government Shutdown"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Japan's Stock Market",
+            "Japan's Economy",
+            "Inflation Expectations"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Take_In",
+            "Expand",
+            "Impact"
+        ],
+        "object": [
+            "Global Investors",
+            "Eight Quarters",
+            "Prices"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Rising Pharmaceuticals",
+            "Efavirenz Capsules",
+            "Efavirenz Capsules"
+        ],
+        "subject_type": [
+            "COMP",
+            "PRODUCT",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Introduce",
+            "Produce",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Efavirenz Capsules",
+            "Sustiva",
+            "Bristol Myers Squibb"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "MetLife Inc",
+            "MetLife Inc",
+            "Metropolitan Tower Life Insurance Company"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Merge",
+            "Be_Domiciled_In"
+        ],
+        "object": [
+            "Planned Merger",
+            "General American Life Insurance Company",
+            "Nebraska"
+        ],
+        "object_type": [
+            "EVENT",
+            "COMP",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Reitmans Canada Ltd",
+            "Reitmans Canada Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Decrease"
+        ],
+        "object": [
+            "December Sales",
+            "Q4 Sales"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "First Bancorp",
+            "Thomson Reuters"
+        ],
+        "subject_type": [
+            "COMP",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Produce"
+        ],
+        "object": [
+            "Q4 Earnings",
+            "Earnings Per Share View"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "ACEA SPA",
+            "ACEA SPA",
+            "ACEA SPA",
+            "ACEA SPA",
+            "ACEA SPA"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Sign",
+            "Impact",
+            "Impact",
+            "Invests_In",
+            "Own"
+        ],
+        "object": [
+            "Open Fiber SPA",
+            "Optic Fiber Network",
+            "Smart City Services",
+            "Five-Year Investments",
+            "Newco"
+        ],
+        "object_type": [
+            "ORG",
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Living Costs",
+            "Wealth Gap"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Homeless Population",
+            "Homeless Population"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Capitala Group",
+            "Capitala Finance Corp"
+        ],
+        "subject_type": [
+            "ORG",
+            "COMP"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "Credit Facility",
+            "Credit Facility"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Microsoft",
+            "Microsoft"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Produce"
+        ],
+        "object": [
+            "AMD Chips",
+            "Meltdown and Spectre Security Patches"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Moody's",
+            "Moody's",
+            "Moody's"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Carillion's Liquidation",
+            "Carillion",
+            "Carillion"
+        ],
+        "object_type": [
+            "EVENT",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Lucid Energy",
+            "Lucid Energy",
+            "Lucid II"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Sell",
+            "Announce",
+            "Operate_As"
+        ],
+        "object": [
+            "Delaware Basin Subsidiary",
+            "Committed Debt Financing",
+            "Riverstone and Goldman Sachs MBD Portfolio Company"
+        ],
+        "object_type": [
+            "ORG",
+            "FIN_INSTRUMENT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Senseonics Holdings Inc.",
+            "Senseonics Holdings Inc."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Pricing",
+            "Convertible Notes",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Sergei Lavrov",
+            "Syria Peace Congress",
+            "Sergei Lavrov"
+        ],
+        "subject_type": [
+            "PERSON",
+            "EVENT",
+            "PERSON"
+        ],
+        "relationship": [
+            "Discuss",
+            "Impact",
+            "Participates_In"
+        ],
+        "object": [
+            "Mevlut Cavusoglu",
+            "Sochi",
+            "Sochi"
+        ],
+        "object_type": [
+            "PERSON",
+            "GPE",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Endo International Plc",
+            "Endo International Plc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Agrees",
+            "Initiated"
+        ],
+        "object": [
+            "FDA",
+            "Litigation"
+        ],
+        "object_type": [
+            "ORGREG",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Boreal Metals Corp",
+            "Boreal Metals Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Acquire"
+        ],
+        "object": [
+            "Cobalt Project",
+            "Cobalt Project"
+        ],
+        "object_type": [
+            "EVENT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Aviragen Therapeutics",
+            "Aviragen Therapeutics",
+            "Aviragen Therapeutics"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "ISS Report",
+            "Institutional Shareholder Services",
+            "Vaxart",
+            "COMP"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORGREG",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Victory Giant Technology HuiZhou Co Ltd",
+            "Victory Giant Technology HuiZhou Co Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Impact"
+        ],
+        "object": [
+            "Net Profit Increase",
+            "Business Income"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Mednax Inc",
+            "Mednax Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Invests_In"
+        ],
+        "object": [
+            "Acquisition of Neonatology Practice",
+            "Neonatology Practice"
+        ],
+        "object_type": [
+            "EVENT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Bank of Japan",
+            "Bank of Japan"
+        ],
+        "subject_type": [
+            "ORGREG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Japanese Share Prices",
+            "Nikkei Stock Average"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "BOK Financial Corp",
+            "BOK Financial Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Net Interest Income Growth",
+            "Revenue Growth from Fee-Generating Businesses"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Saxo Bank",
+            "Ulrik Ross",
+            "Ulrik Ross",
+            "HSBC London"
+        ],
+        "subject_type": [
+            "ORG",
+            "PERSON",
+            "PERSON",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Is_Member_Of",
+            "Participates_In",
+            "Operate_In"
+        ],
+        "object": [
+            "Ulrik Ross",
+            "Saxo Bank",
+            "Sustainable Financing",
+            "Public Sector"
+        ],
+        "object_type": [
+            "PERSON",
+            "ORG",
+            "CONCEPT",
+            "SECTOR"
+        ]
+    },
+    {
+        "subject": [
+            "Self-balancing smart suitcase"
+        ],
+        "subject_type": [
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Introduce"
+        ],
+        "object": [
+            "Auto-balancing technology"
+        ],
+        "object_type": [
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Bezeq Israeli Telecom",
+            "Bezeq Israeli Telecom"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Raise",
+            "Raise"
+        ],
+        "object": [
+            "Institutional Investors",
+            "Bank Loan"
+        ],
+        "object_type": [
+            "ORG",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "New Generation Jalisco Cartel",
+            "New Generation Jalisco Cartel"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Impact",
+            "Operate_In"
+        ],
+        "object": [
+            "Violence",
+            "Mexico"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Honeywell International Inc",
+            "Honeywell International Inc",
+            "United Airlines"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Supply",
+            "Produce",
+            "Select"
+        ],
+        "object": [
+            "United Airlines",
+            "Cockpit Technologies",
+            "Boeing 737 Max"
+        ],
+        "object_type": [
+            "COMP",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Narendra Modi",
+            "Narendra Modi"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Tell",
+            "Participates_In"
+        ],
+        "object": [
+            "World Economic Forum",
+            "Davos Summit"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Glaukos Corp",
+            "Glaukos Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Submit",
+            "Submit"
+        ],
+        "object": [
+            "IDE Application",
+            "iStent Infinite",
+            "PRODUCT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Sharps Compliance Corp",
+            "Sharps Compliance Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Fiscal 2018 Q2 Revenue",
+            "Fiscal 2018 Q2 Revenue"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "House",
+            "community banks",
+            "credit unions"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Escape",
+            "Escape"
+        ],
+        "object": [
+            "bill",
+            "reporting requirements",
+            "reporting requirements"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Onward Holdings",
+            "Onward Holdings",
+            "Onward Holdings"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Group Operating Profit",
+            "Group Sales",
+            "Operating Profit"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Global Insurers",
+            "Major Hurricanes",
+            "Wildfires"
+        ],
+        "subject_type": [
+            "ORG",
+            "EVENT",
+            "EVENT"
+        ],
+        "relationship": [
+            "Suffered",
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Catastrophe Claims",
+            "Caribbean",
+            "California"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "GPE",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Donald Trump"
+        ],
+        "subject_type": [
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Immigration Reform Proposal"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Morocco",
+            "Morocco"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Introduce",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "Flexible Currency Exchange System",
+            "People's Purchasing Power"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Asetek A/S",
+            "Asetek A/S",
+            "Fujitsu",
+            "Institute of Fluid Science",
+            "Institute of Fluid Science"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Receive",
+            "Receive",
+            "Announce",
+            "Is_Member_Of",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Order from Fujitsu",
+            "Order from Fujitsu",
+            "Order for Institute of Fluid Science",
+            "Tohoku University",
+            "Japan"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT",
+            "ORG",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Japan Post Bank Co",
+            "Japan Post Bank Co",
+            "Japan Post Investment Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Form"
+        ],
+        "object": [
+            "Private Equity Fund Management Firm",
+            "Japan Post Investment Corp",
+            "New Funds"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Morphotek",
+            "Morphotek",
+            "FDA"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Announce",
+            "Introduce",
+            "Accept"
+        ],
+        "object": [
+            "IND for Cancer Treatment",
+            "Morab-202",
+            "Morab-202"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "PagSeguro Digital Ltd"
+        ],
+        "subject_type": [
+            "COMP"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Initial Public Offering",
+            "Strong Demand"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Google",
+            "Apple",
+            "Facebook",
+            "Big Tech"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "SECTOR"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact",
+            "Impact",
+            "Disrupt"
+        ],
+        "object": [
+            "Banks",
+            "Banks",
+            "Banks",
+            "Banks"
+        ],
+        "object_type": [
+            "ORG",
+            "ORG",
+            "ORG",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "International Frontier Resources Corp",
+            "International Frontier Resources Corp",
+            "Tonalli",
+            "Tonalli"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Receive",
+            "Receive",
+            "Granted",
+            "Produce"
+        ],
+        "object": [
+            "Drilling Permit",
+            "Mexican Government",
+            "Right to Operate",
+            "Hydrocarbons"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORGGOV",
+            "CONCEPT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Oncobiologics Inc.",
+            "Oncobiologics Inc."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Prospectus",
+            "Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "General Electric",
+            "Jen Vanbelle"
+        ],
+        "subject_type": [
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Control"
+        ],
+        "object": [
+            "Jen Vanbelle",
+            "GE Treasury Operations"
+        ],
+        "object_type": [
+            "PERSON",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "MYBET HOLDING SE",
+            "MYBET HOLDING SE"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Control"
+        ],
+        "object": [
+            "Convertible Bond 2015/2020",
+            "Convertible Bond 2015/2020"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "South Korea",
+            "South Korea"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In"
+        ],
+        "object": [
+            "Trade Dispute",
+            "World Trade Organization",
+            "ORGGOV"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORGGOV"
+        ]
+    },
+    {
+        "subject": [
+            "Wabco Holdings Inc",
+            "Wabco Holdings Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Enters Into",
+            "Supply"
+        ],
+        "object": [
+            "Global Manufacturer",
+            "Automated Manual Transmission Valve Technology"
+        ],
+        "object_type": [
+            "COMP",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Entertainment One Ltd",
+            "Entertainment One Ltd",
+            "Entertainment One Ltd",
+            "J.P. Morgan Cazenove",
+            "Investec",
+            "RBC"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Raise",
+            "Invests_In",
+            "Invests_In",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "53 MLN STG Primary Placing",
+            "Deluxe Pictures",
+            "The Mark Gordon Co",
+            "Placing",
+            "Placing",
+            "Placing"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "COMP",
+            "COMP",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Marimo Regional Revitalization REIT Inc",
+            "Marimo Regional Revitalization REIT Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Raise",
+            "Raise"
+        ],
+        "object": [
+            "Public Offering",
+            "Private Placement"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "SMS KREDYT HOLDING SA",
+            "SMS KREDYT HOLDING SA"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Applies For",
+            "Operates_In"
+        ],
+        "object": [
+            "Specialised Bank License",
+            "Lithuania"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Shareholders",
+            "UniCredit"
+        ],
+        "subject_type": [
+            "PERSON",
+            "COMP"
+        ],
+        "relationship": [
+            "Invests_In",
+            "Announce"
+        ],
+        "object": [
+            "UniCredit",
+            "Withdrawal Right"
+        ],
+        "object_type": [
+            "COMP",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "AlphaPolis Co Ltd",
+            "AlphaPolis Co Ltd",
+            "AlphaPolis Co Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Transfer",
+            "Is_Member_Of",
+            "Announce"
+        ],
+        "object": [
+            "Tokyo-based game JV",
+            "Tokyo-based game JV",
+            "Transaction Date Jan. 21"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Mellisa Rivers",
+            "Mellisa Rivers"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Book",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Lightbridge Corp",
+            "Lightbridge Corp",
+            "Lightbridge Corp",
+            "Framatome"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Launch",
+            "Launch",
+            "Launch",
+            "Launch"
+        ],
+        "object": [
+            "Enfission",
+            "Enfission",
+            "Enfission",
+            "Enfission"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Jiangsu Pacific Precision Forging Co Ltd",
+            "Increased Sales Income"
+        ],
+        "subject_type": [
+            "COMP",
+            "CONCEPT"
+        ],
+        "relationship": [
+            "Announce",
+            "Impact"
+        ],
+        "object": [
+            "Net Profit Increase",
+            "Net Profit Increase"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Horses",
+            "Las Luminarias",
+            "Las Luminarias"
+        ],
+        "subject_type": [
+            "CONCEPT",
+            "EVENT",
+            "EVENT"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Relate_To",
+            "Impact"
+        ],
+        "object": [
+            "Las Luminarias",
+            "Spain",
+            "Animal Abuse"
+        ],
+        "object_type": [
+            "EVENT",
+            "GPE",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Strong Economic Data",
+            "Strong Economic Data"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Equities Rally",
+            "Dow",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Central Pacific Financial Corp",
+            "Central Pacific Financial Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Appoints",
+            "Appoints"
+        ],
+        "object": [
+            "Christopher T. Lutes",
+            "Central Pacific Bank"
+        ],
+        "object_type": [
+            "PERSON",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Metropolitan Transportation Authority",
+            "Metropolitan Transportation Authority"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Cause",
+            "Operate_In"
+        ],
+        "object": [
+            "Electrical Issue",
+            "Subway System"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "SECTOR"
+        ]
+    },
+    {
+        "subject": [
+            "Fred Katayama"
+        ],
+        "subject_type": [
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Autonomous cars"
+        ],
+        "object_type": [
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Donald Trump",
+            "Donald Trump"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Announce"
+        ],
+        "object": [
+            "World Economic Forum",
+            "America is open for business"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Enterprise Holdings",
+            "Pennsylvania Department Of Transportation",
+            "Enterprise Rideshare"
+        ],
+        "subject_type": [
+            "COMP",
+            "ORGGOV",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Partnering_With",
+            "Partnering_With",
+            "Launch"
+        ],
+        "object": [
+            "Enterprise Rideshare",
+            "Enterprise Rideshare",
+            "Statewide Public-Transit Program"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Advanced Micro Devices Inc",
+            "Spectre Variant 2",
+            "Spectre Variant 2",
+            "Advanced Micro Devices Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "EVENT",
+            "EVENT",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Impact",
+            "Impact",
+            "Produce"
+        ],
+        "object": [
+            "AMD Products",
+            "AMD Products",
+            "Advanced Micro Devices Inc",
+            "Micro Code Updates"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "COMP",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Hecla Mining Co",
+            "Hecla Mining Co"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Produce"
+        ],
+        "object": [
+            "Silver",
+            "Gold"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Phil Murphy",
+            "Phil Murphy",
+            "Goldman Sachs"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "ORG"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Impact",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Oath of Office",
+            "Progressive Agenda",
+            "Phil Murphy"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "S&P CoreLogic Case-Shiller National Home Price Index"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Relate_To"
+        ],
+        "object": [
+            "Home Prices",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Azimut Holding Spa",
+            "Investors in Shareholder Pact",
+            "Institutional Investor"
+        ],
+        "subject_type": [
+            "COMP",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Has",
+            "Invests_In",
+            "Participates_In"
+        ],
+        "object": [
+            "Shareholders",
+            "Azimut Holding Spa",
+            "Stakebuilding"
+        ],
+        "object_type": [
+            "ORG",
+            "COMP",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Nigeria\u2019s Bourse",
+            "Seven-Up Bottling Co.",
+            "Affelka"
+        ],
+        "subject_type": [
+            "ORGREG",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Suspend",
+            "Has",
+            "Announce"
+        ],
+        "object": [
+            "Seven-Up Bottling Co.",
+            "Resolution",
+            "Takeover Bid"
+        ],
+        "object_type": [
+            "COMP",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Gregg Singer",
+            "Gregg Singer",
+            "Gregg Singer",
+            "Gregg Singer",
+            "Gregg Singer"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Own",
+            "Want",
+            "File",
+            "Complain",
+            "Block"
+        ],
+        "object": [
+            "Public School Building",
+            "Dormitory",
+            "Federal Court",
+            "Conspiracy",
+            "Local Elected Officials"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "ORG",
+            "CONCEPT",
+            "ORGREG"
+        ]
+    },
+    {
+        "subject": [
+            "Chinese consumers",
+            "Zhang Zong",
+            "Zhang Zong",
+            "Zhang Zong",
+            "Zhang Zong"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Go_to",
+            "Use",
+            "Outsource",
+            "Run",
+            "Save_on"
+        ],
+        "object": [
+            "JD.com",
+            "JD.com",
+            "JD.com",
+            "33-outlet restaurant chain",
+            "Delivery expenses"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Packaging Corp Of America",
+            "Packaging Corp Of America"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Fourth Quarter and Full Year 2017 Results",
+            "Q1 Earnings Per Share $1.52"
+        ],
+        "object_type": [
+            "EVENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Stanbic IBTC Holdings PLC",
+            "Victor Yeboah-Manu",
+            "Stanbic IBTC Holdings PLC"
+        ],
+        "subject_type": [
+            "COMP",
+            "PERSON",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Resign",
+            "Announce"
+        ],
+        "object": [
+            "Adekunle Adedeji",
+            "Stanbic IBTC Holdings PLC",
+            "Adekunle Adedeji"
+        ],
+        "object_type": [
+            "PERSON",
+            "COMP",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Boeing Co",
+            "Boeing Co",
+            "Boeing Co"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Report",
+            "Has",
+            "Produce"
+        ],
+        "object": [
+            "912 Net Orders",
+            "71 Customers",
+            "787 Dreamliners"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ORG",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Foschini Group Ltd",
+            "Foschini Group Ltd",
+            "Foschini Group Ltd",
+            "Foschini Group Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "TFG Consolidated Turnover Growth",
+            "TFG Consolidated Turnover Growth",
+            "Consolidated Turnover",
+            "Turnover Growth for TFG Africa"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Silver Bear Resources Inc",
+            "Silver Bear Resources Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Produce"
+        ],
+        "object": [
+            "Hazardous Materials Licence",
+            "Silver",
+            "PRODUCT"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "TPG Specialty Lending Inc",
+            "TPG Specialty Lending Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Visionstate Corp",
+            "Visionstate Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Receive"
+        ],
+        "object": [
+            "Initial Tranche of Private Placement",
+            "Conditional Acceptance from TSX Venture Exchange"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ORGREG"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "International Olympic Committee",
+            "International Olympic Committee"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In"
+        ],
+        "object": [
+            "Russian Athletes",
+            "Pyeongchang Olympics"
+        ],
+        "object_type": [
+            "PERSON",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Guaranty Bancorp",
+            "Guaranty Bancorp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "2017 Annual and Fourth Quarter Financial Results",
+            "Q4 Earnings Per Share $0.30",
+            "EVENT"
+        ],
+        "object_type": [
+            "EVENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Graham Holdings Company"
+        ],
+        "subject_type": [
+            "COMP"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Quarterly Dividend"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Harbin Electric Corp",
+            "Harbin Electric Corp",
+            "State Power Investment Corporation"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Award",
+            "Produce",
+            "Control"
+        ],
+        "object": [
+            "GE Power Order",
+            "9F.05 Gas Turbines",
+            "Langfang Power Plant"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "M6",
+            "M6",
+            "M6",
+            "M6"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Signs",
+            "Has",
+            "Collaborate",
+            "Distributed_On"
+        ],
+        "object": [
+            "Orange",
+            "M6 Group Channels",
+            "Orange",
+            "Orange Platforms"
+        ],
+        "object_type": [
+            "COMP",
+            "PRODUCT",
+            "COMP",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Morgan Stanley",
+            "Morgan Stanley",
+            "Fred Katayama"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Impact",
+            "Report"
+        ],
+        "object": [
+            "Profit Drop",
+            "Trading Revenue",
+            "Adjusted Profit and Revenue"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Wall Street Journal",
+            "Steve Wynn",
+            "Steve Wynn"
+        ],
+        "subject_type": [
+            "ORG",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Is_Member_Of",
+            "Invests_In"
+        ],
+        "object": [
+            "Sexual Misconduct Allegations",
+            "Republicans",
+            "Republicans"
+        ],
+        "object_type": [
+            "EVENT",
+            "ORGGOV",
+            "ORGGOV"
+        ]
+    },
+    {
+        "subject": [
+            "Stifel Financial Corp",
+            "Tom Hankins",
+            "Jay Lauzon",
+            "Tom Hankins",
+            "Jay Lauzon"
+        ],
+        "subject_type": [
+            "COMP",
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Is_Member_Of",
+            "Is_Member_Of",
+            "Join_From",
+            "Join_From"
+        ],
+        "object": [
+            "Stifel, Nicolaus & Co Inc",
+            "Stifel, Nicolaus & Co Inc",
+            "Stifel, Nicolaus & Co Inc",
+            "Ameriprise Financial Services Inc",
+            "Ameriprise Financial Services Inc"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Angelina Jolie",
+            "Angelina Jolie"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Urge",
+            "Call_On"
+        ],
+        "object": [
+            "NATO",
+            "NATO"
+        ],
+        "object_type": [
+            "ORGGOV",
+            "ORGGOV"
+        ]
+    },
+    {
+        "subject": [
+            "Absa Purchasing Managers' Index",
+            "Absa Purchasing Managers' Index",
+            "Bureau for Economic Research"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ORG"
+        ],
+        "relationship": [
+            "Impact",
+            "Relate_To",
+            "Produce"
+        ],
+        "object": [
+            "Business Activity",
+            "New Sales",
+            "Absa Purchasing Managers' Index"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Chemical Financial Corp",
+            "Chemical Financial Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Fourth Quarter 2017 Net Income",
+            "Net Interest Income"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Jilin Jian Yisheng Pharmaceutical Co Ltd"
+        ],
+        "subject_type": [
+            "COMP"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Accounting Policy Change",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Prince Harry",
+            "Meghan Markle",
+            "Reprezent Radio"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "ORG"
+        ],
+        "relationship": [
+            "Visit",
+            "Visit",
+            "Support"
+        ],
+        "object": [
+            "Reprezent Radio",
+            "Reprezent Radio",
+            "Young People"
+        ],
+        "object_type": [
+            "ORG",
+            "ORG",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Czech Republic"
+        ],
+        "subject_type": [
+            "GPE"
+        ],
+        "relationship": [
+            "Participates_In"
+        ],
+        "object": [
+            "Vote"
+        ],
+        "object_type": [
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Twitch",
+            "Twitch",
+            "Twitch"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Overwatch League",
+            "Overwatch League",
+            "Overwatch League"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Gold",
+            "Gold",
+            "New York Mercantile Exchange"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "ORG"
+        ],
+        "relationship": [
+            "Positive_Impact_On",
+            "Relate_To",
+            "Produce"
+        ],
+        "object": [
+            "Dollar",
+            "Government Shutdown",
+            "Gold",
+            "FIN_INSTRUMENT",
+            "EVENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Victoria Azarenka",
+            "Victoria Azarenka"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Withdraws_From"
+        ],
+        "object": [
+            "Australian Open",
+            "Australian Open"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Ray Dalio",
+            "Bridgewater Associates",
+            "Elon Musk",
+            "Federal Reserve",
+            "interest rates"
+        ],
+        "subject_type": [
+            "PERSON",
+            "ORG",
+            "PERSON",
+            "ORGREG",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Is_Member_Of",
+            "Control",
+            "Announce",
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Bridgewater Associates",
+            "US Markets",
+            "Musk's Compensation Plan",
+            "Asset Prices",
+            "Asset Prices"
+        ],
+        "object_type": [
+            "ORG",
+            "FIN_INSTRUMENT",
+            "CONCEPT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Nanobiotix SA",
+            "Nanobiotix SA",
+            "Nanobiotix SA",
+            "Nanobiotix SA"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Partners_With",
+            "Participates_In",
+            "Launch",
+            "Receive"
+        ],
+        "object": [
+            "Providence Cancer Institute",
+            "Preclinical Research",
+            "First Clinical Trial",
+            "Approval of IND"
+        ],
+        "object_type": [
+            "ORG",
+            "CONCEPT",
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Kansas City Software Company",
+            "Kansas City Software Company"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Raise",
+            "Raise"
+        ],
+        "object": [
+            "Buyer",
+            "Seller"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "KBS Fashion Group",
+            "Xiaowen Zheng",
+            "KBS Fashion Group",
+            "Keyan Yan"
+        ],
+        "subject_type": [
+            "COMP",
+            "PERSON",
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Has",
+            "Resign",
+            "Has",
+            "Appointed_By"
+        ],
+        "object": [
+            "Board of Directors",
+            "CEO",
+            "Board of Directors",
+            "KBS Fashion Group"
+        ],
+        "object_type": [
+            "ORG",
+            "ORG",
+            "ORG",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Royal wedding",
+            "Royal wedding",
+            "Royal wedding"
+        ],
+        "subject_type": [
+            "EVENT",
+            "EVENT",
+            "EVENT"
+        ],
+        "relationship": [
+            "Impact",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "UK economy",
+            "Prince Harry",
+            "Meghan Markle"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "PERSON",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "TPP-11",
+            "United States"
+        ],
+        "subject_type": [
+            "EVENT",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In"
+        ],
+        "object": [
+            "Asia-Pacific Trade Pact",
+            "Asia-Pacific Trade Pact"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Tourist Boat",
+            "Tourist Boat"
+        ],
+        "subject_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Explode",
+            "Impact"
+        ],
+        "object": [
+            "Phi Phi Le Island",
+            "16 People"
+        ],
+        "object_type": [
+            "GPE",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Eddie Redmayne",
+            "Eddie Redmayne",
+            "Eddie Redmayne"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Relate_To",
+            "Announce"
+        ],
+        "object": [
+            "Early Man Premiere",
+            "Gender Equality Campaign",
+            "Hollywood's Gender Equality Campaign"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "The Wall Street Journal",
+            "Federal Reserve"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Raise"
+        ],
+        "object": [
+            "Markets",
+            "Rates"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Mitch McConnell",
+            "U.S. Senate",
+            "Federal Government"
+        ],
+        "subject_type": [
+            "PERSON",
+            "ORGGOV",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In",
+            "Impact"
+        ],
+        "object": [
+            "U.S. Senate",
+            "Session",
+            "Shutdown"
+        ],
+        "object_type": [
+            "ORGGOV",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Tesla Inc.",
+            "Tesla Inc.",
+            "Caresoft Global Inc."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "ORG"
+        ],
+        "relationship": [
+            "Introduce",
+            "Produce",
+            "Show"
+        ],
+        "object": [
+            "Model 3",
+            "Model 3",
+            "Model 3 chassis"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Federal Reserve"
+        ],
+        "subject_type": [
+            "ORGREG"
+        ],
+        "relationship": [
+            "Impact"
+        ],
+        "object": [
+            "Gold Prices",
+            "ECON_INDICATOR"
+        ],
+        "object_type": [
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Ziopharm Oncology",
+            "Ziopharm Oncology",
+            "Ziopharm Oncology"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "Pivotal Trial",
+            "36th Annual J.P. Morgan Healthcare Conference",
+            "Controlled IL-12"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Syapse",
+            "Syapse",
+            "Syapse",
+            "Roche",
+            "Syapse"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG",
+            "COMP",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Collaborate",
+            "Collaborate",
+            "Invests_In",
+            "Collaborate"
+        ],
+        "object": [
+            "Roche",
+            "Roche",
+            "Software Products",
+            "New Products",
+            "Automated Methods"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "PRODUCT",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "General Motors Co",
+            "General Motors Co",
+            "General Motors Co"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Has",
+            "Has",
+            "Has"
+        ],
+        "object": [
+            "China",
+            "Sales Volume",
+            "Detroit",
+            "GPE"
+        ],
+        "object_type": [
+            "GPE",
+            "ECON_INDICATOR",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Emmanuel Macron",
+            "Emmanuel Macron"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Express",
+            "Express"
+        ],
+        "object": [
+            "Tayyip Erdogan",
+            "Turkish Military Intervention in Afrin"
+        ],
+        "object_type": [
+            "PERSON",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "India\u2019s Market Regulator",
+            "PricewaterhouseCoopers",
+            "PricewaterhouseCoopers",
+            "Satyam Computer Services"
+        ],
+        "subject_type": [
+            "ORGREG",
+            "ORG",
+            "ORG",
+            "COMP"
+        ],
+        "relationship": [
+            "Ban",
+            "Control",
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "PricewaterhouseCoopers",
+            "Satyam Computer Services",
+            "Satyam Computer Services",
+            "Billion-dollar Fraud"
+        ],
+        "object_type": [
+            "ORG",
+            "COMP",
+            "COMP",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Dow Jones Industrial Average",
+            "Global Economic Growth"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Positive_Impact_On",
+            "Impact"
+        ],
+        "object": [
+            "Global Stock Surge",
+            "Stock Buying"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Asian American Performers Action Coalition"
+        ],
+        "subject_type": [
+            "ORG"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Report",
+            "Minority Actors"
+        ],
+        "object_type": [
+            "EVENT",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Liberty Gold Corp",
+            "Liberty Gold",
+            "RCF",
+            "Liberty Gold Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise",
+            "Invests_In",
+            "Relate_To"
+        ],
+        "object": [
+            "$10.5 million bought deal private placement",
+            "$10.5 million",
+            "Liberty Gold",
+            "Goldstrike Project",
+            "PRODUCT"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT",
+            "COMP",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Blackbird Energy Inc",
+            "Blackbird Energy Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Capital Obligations",
+            "Non-Dilutive Options"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "ProCredit Holding",
+            "ProCredit Holding"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Consider"
+        ],
+        "object": [
+            "Loan Portfolio Growth",
+            "Capital Increase"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Donald Trump",
+            "Donald Trump",
+            "U.S. Congress"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Announce",
+            "Sign",
+            "Pass"
+        ],
+        "object": [
+            "702 Bill",
+            "702 Bill",
+            "702 Bill"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Puerto Rico",
+            "Ricardo Rosello",
+            "Ricardo Rosello"
+        ],
+        "subject_type": [
+            "GPE",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Is_Member_Of",
+            "Announce",
+            "Lobby"
+        ],
+        "object": [
+            "United States",
+            "News Conference",
+            "Statehood"
+        ],
+        "object_type": [
+            "GPE",
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Mogo Finance Technology Inc",
+            "Mogo Finance Technology Inc",
+            "MogoCrypto"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Introduce",
+            "Operate_In",
+            "Produce"
+        ],
+        "object": [
+            "Bitcoin",
+            "Canada",
+            "Bitcoin",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "GPE",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Mega Millions",
+            "Mega Millions",
+            "Jillian Kitchener"
+        ],
+        "subject_type": [
+            "EVENT",
+            "EVENT",
+            "PERSON"
+        ],
+        "relationship": [
+            "Has",
+            "Has",
+            "Reports"
+        ],
+        "object": [
+            "$450 Million Jackpot Prize",
+            "Florida",
+            "Mega Millions Prize"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "GPE",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "John Cornyn",
+            "Fox News Channel"
+        ],
+        "subject_type": [
+            "PERSON",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Report"
+        ],
+        "object": [
+            "U.S. government",
+            "U.S. government",
+            "ORGGOV"
+        ],
+        "object_type": [
+            "Announce",
+            "Report",
+            "ORGGOV"
+        ]
+    },
+    {
+        "subject": [
+            "Morocco's Central Bank",
+            "Morocco's Central Bank",
+            "Morocco's Central Bank"
+        ],
+        "subject_type": [
+            "ORGREG",
+            "ORGREG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Announce",
+            "Introduce",
+            "Raise"
+        ],
+        "object": [
+            "Auction",
+            "Flexible Foreign Exchange System",
+            "U.S. Dollars",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Jinhe Biotechnology Co Ltd",
+            "Jinhe Biotechnology Co Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Net Profit FY 2017",
+            "Net Profit FY 2016"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Skyline Medical Inc",
+            "Skyline Medical Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Public Offering",
+            "2.9 Million Units"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Inter Parfums Inc",
+            "Inter Parfums Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "2017 Fourth Quarter Sales",
+            "2017 Full Year Sales"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "South Africa",
+            "South Africa",
+            "African National Congress"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE",
+            "ORG"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact",
+            "Has"
+        ],
+        "object": [
+            "Economic Growth",
+            "Poverty",
+            "New Leader",
+            "PERSON"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "David Nadel",
+            "David Nadel",
+            "The Royce Funds"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Control",
+            "Operate_In"
+        ],
+        "object": [
+            "Outlook for International Stocks",
+            "The Royce Funds",
+            "International Stocks",
+            "SECTOR"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORG",
+            "SECTOR"
+        ]
+    },
+    {
+        "subject": [
+            "Nuance Communications",
+            "Nuance Communications"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Has",
+            "Has"
+        ],
+        "object": [
+            "Paul Ricci",
+            "Stock Awards"
+        ],
+        "object_type": [
+            "PERSON",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Joe Kennedy III",
+            "Joe Kennedy III",
+            "Donald Trump"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Is_Member_Of",
+            "Participates_In",
+            "Announce"
+        ],
+        "object": [
+            "Democratic Party",
+            "State of the Union",
+            "State of the Union"
+        ],
+        "object_type": [
+            "ORG",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Orkla ASA",
+            "Orkla ASA"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Produce"
+        ],
+        "object": [
+            "Biscuit",
+            "Kungsalv"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Boris & Horton",
+            "Boris & Horton",
+            "Boris & Horton"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Operate_In",
+            "Introduce",
+            "Produce"
+        ],
+        "object": [
+            "New York",
+            "Dog Friendly Cafe",
+            "Treats"
+        ],
+        "object_type": [
+            "GPE",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Dollar",
+            "Donald Trump"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "PERSON"
+        ],
+        "relationship": [
+            "Impact",
+            "Participates_In"
+        ],
+        "object": [
+            "America First Policies",
+            "World Economic Forum"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Polar Capital Holdings Plc",
+            "Polar Capital Holdings Plc",
+            "Polar Capital Holdings Plc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "AUM",
+            "Net Inflows",
+            "Performance Fee Profits"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Tesco",
+            "Tesco"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Operate_In"
+        ],
+        "object": [
+            "Christmas Period",
+            "Home Market"
+        ],
+        "object_type": [
+            "EVENT",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Mahathir Mohamad",
+            "Mahathir Mohamad",
+            "Najib Razak"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Is_Member_Of",
+            "Challenge",
+            "Control"
+        ],
+        "object": [
+            "Opposition Coalition",
+            "Ruling Party",
+            "1Malaysia Development Bhd",
+            "COMP"
+        ],
+        "object_type": [
+            "ORG",
+            "ORG",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Jiangsu Jinling Sports Equipment Co Ltd",
+            "Increased Sales Revenue"
+        ],
+        "subject_type": [
+            "COMP",
+            "CONCEPT"
+        ],
+        "relationship": [
+            "Announce",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "FY 2017 Net Profit",
+            "Gross Margin"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Chenguang Biotech Group",
+            "Chenguang Biotech Group"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Receive",
+            "Receive"
+        ],
+        "object": [
+            "Patent License ZL201610687754.8",
+            "Patent License ZL201720725190.2"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Washington Metropolitan Area Transit Authority"
+        ],
+        "subject_type": [
+            "ORG"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Train Derailment",
+            "EVENT"
+        ],
+        "object_type": [
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Tammy Duckworth",
+            "Tammy Duckworth"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Negative_Impact_On",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "Donald Trump",
+            "Donald Trump"
+        ],
+        "object_type": [
+            "PERSON",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Stanley Furniture Company Inc",
+            "Churchill Downs LLC"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Invests_In"
+        ],
+        "object": [
+            "First Amendment to Asset Purchase Agreement",
+            "Stanley Furniture Company Inc"
+        ],
+        "object_type": [
+            "EVENT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Kansas City Software Company",
+            "Kansas City Software Company"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Has",
+            "Positive_Impact_On"
+        ],
+        "object": [
+            "$5 Billion Purchase",
+            "Investors' Eyes",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Wall Street Journal",
+            "Steve Wynn",
+            "Steve Wynn"
+        ],
+        "subject_type": [
+            "ORG",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Is_Member_Of",
+            "Invests_In"
+        ],
+        "object": [
+            "Sexual Misconduct Allegations",
+            "Republicans",
+            "Republicans"
+        ],
+        "object_type": [
+            "EVENT",
+            "ORGGOV",
+            "ORGGOV"
+        ]
+    },
+    {
+        "subject": [
+            "Unichem Laboratories Ltd",
+            "Unichem Laboratories Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Buyback of Equity Shares",
+            "Profit"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "China Cinda Asset Management",
+            "China Cinda Asset Management",
+            "China Cinda Asset Management"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Propose",
+            "Receive",
+            "Approve"
+        ],
+        "object": [
+            "Financial Bonds",
+            "Administrative Licensing Permission",
+            "Publicly Issue Financial Bonds"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Edinburgh Investment Trust",
+            "Edinburgh Investment Trust",
+            "IG Group",
+            "IG Group",
+            "Victrex",
+            "Victrex"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Is_Member_Of",
+            "Raise",
+            "Is_Member_Of",
+            "Raise",
+            "Is_Member_Of",
+            "Raise"
+        ],
+        "object": [
+            "FTSE 250",
+            "Dividend",
+            "FTSE 250",
+            "Dividend",
+            "FTSE 250",
+            "Dividend"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR",
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR",
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Toronto Stock Exchange",
+            "Toronto Stock Exchange"
+        ],
+        "subject_type": [
+            "ORGREG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Operate_In",
+            "Operate_In"
+        ],
+        "object": [
+            "Technology",
+            "Healthcare"
+        ],
+        "object_type": [
+            "SECTOR",
+            "SECTOR"
+        ]
+    },
+    {
+        "subject": [
+            "KKR & Co",
+            "Jacques Veyrat",
+            "Jacques Veyrat",
+            "Impala SAS",
+            "Jacques Veyrat"
+        ],
+        "subject_type": [
+            "COMP",
+            "PERSON",
+            "PERSON",
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Manage",
+            "Found",
+            "Has",
+            "Was"
+        ],
+        "object": [
+            "Jacques Veyrat",
+            "Impala SAS",
+            "Impala",
+            "Net Asset Value",
+            "Louis Dreyfus Group"
+        ],
+        "object_type": [
+            "PERSON",
+            "COMP",
+            "COMP",
+            "ECON_INDICATOR",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "T-Mobile US Inc",
+            "T-Mobile US Inc",
+            "Jeff Binder"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Control",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Layer3 TV Acquisition",
+            "Layer3 TV",
+            "T-Mobile US Inc"
+        ],
+        "object_type": [
+            "EVENT",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Rolls-Royce",
+            "Aercap",
+            "Trent 1000",
+            "Trent 1000"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PRODUCT",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Produce",
+            "Invests_In",
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Trent 1000",
+            "Trent 1000",
+            "Boeing 787 Dreamliner",
+            "Aercap"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "PRODUCT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Carrefour",
+            "Carrefour",
+            "Carrefour"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Implement",
+            "Widen"
+        ],
+        "object": [
+            "Lactalis Recall",
+            "Plan",
+            "Product Recall",
+            "Lactalis Products"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "EVENT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Zhejiang Jolly Pharmaceutical Co Ltd",
+            "Zhejiang Jolly Pharmaceutical Co Ltd",
+            "Zhejiang Jolly Pharmaceutical Co Ltd's medical unit"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Invests_In",
+            "Invests_In",
+            "Invests_In"
+        ],
+        "object": [
+            "Shanghai-based biomedicine firm",
+            "Industry buyout fund",
+            "Shanghai-based biomedicine firm"
+        ],
+        "object_type": [
+            "COMP",
+            "FIN_INSTRUMENT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Cleantech Solutions International Inc",
+            "Cleantech Solutions International Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Cease",
+            "Commence"
+        ],
+        "object": [
+            "Ticker Symbol CLNT",
+            "Ticker Symbol SEII"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "U.S. GDP"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Impact"
+        ],
+        "object": [
+            "Economy"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Universal Mcloud Corp",
+            "Universal Mcloud Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Non-Brokered Private Placement",
+            "Gross Proceeds",
+            "M&A Activities"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Intel Corp.",
+            "Intel Corp.",
+            "Wall Street"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "ORG"
+        ],
+        "relationship": [
+            "Produce",
+            "Announce",
+            "Relate_To"
+        ],
+        "object": [
+            "Chips",
+            "Fourth-quarter results",
+            "Forecasts"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Medtronic",
+            "Medtronic",
+            "Medtronic",
+            "Royal Philips"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Partner",
+            "Partner",
+            "Develop",
+            "Develop"
+        ],
+        "object": [
+            "Philips",
+            "Lung Cancer Management",
+            "LungGPS Patient Management Platform",
+            "LungGPS Patient Management Platform"
+        ],
+        "object_type": [
+            "COMP",
+            "CONCEPT",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Matthew Stock"
+        ],
+        "subject_type": [
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "New Research",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Lufthansa",
+            "Lufthansa"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Invests_In"
+        ],
+        "object": [
+            "Alitalia",
+            "Alitalia"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "BankUnited Inc",
+            "BankUnited Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Share Repurchase Program",
+            "$150 Million"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Labor Department",
+            "Teachers",
+            "Teachers",
+            "Government Workers"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Is_Member_Of",
+            "Operate_In",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Data",
+            "Organized Labor",
+            "Public School",
+            "Organized Labor"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "SECTOR",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Times Square"
+        ],
+        "subject_type": [
+            "GPE"
+        ],
+        "relationship": [
+            "Participates_In"
+        ],
+        "object": [
+            "New Year Celebration"
+        ],
+        "object_type": [
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Newell Brands Inc.",
+            "Newell Brands Inc.",
+            "Newell Brands Inc.",
+            "Newell Brands Inc.",
+            "Newell Brands Inc.",
+            "Newell Brands Inc.",
+            "Newell Brands Inc."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Produce",
+            "Produce",
+            "Produce",
+            "Acquire",
+            "Produce",
+            "Produce"
+        ],
+        "object": [
+            "Sharpie Markers",
+            "Elmers Glue",
+            "Rubbermaid Containers",
+            "Graco Baby Strollers",
+            "Jarden Corp.",
+            "Yankee Candle",
+            "Mr. Coffee Machines"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "PRODUCT",
+            "PRODUCT",
+            "COMP",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Allergan Plc",
+            "Forest Laboratories",
+            "Forest Laboratories"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Merge",
+            "Merge"
+        ],
+        "object": [
+            "Internal Reorganization",
+            "Allergan Sales",
+            "Allergan Sales"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Britain",
+            "Theresa May"
+        ],
+        "subject_type": [
+            "GPE",
+            "PERSON"
+        ],
+        "relationship": [
+            "Seek",
+            "Announce"
+        ],
+        "object": [
+            "Free Trade Agreement with China",
+            "Free Trade Agreement with China"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Apple",
+            "Apple",
+            "GOP Tax Bill"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "EVENT"
+        ],
+        "relationship": [
+            "Pay",
+            "Announce",
+            "Impact"
+        ],
+        "object": [
+            "U.S. Taxes",
+            "New Campus",
+            "Apple",
+            "COMP"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "PRODUCT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Rachel Botsman",
+            "Technology"
+        ],
+        "subject_type": [
+            "PERSON",
+            "CONCEPT"
+        ],
+        "relationship": [
+            "Announce",
+            "Impact"
+        ],
+        "object": [
+            "Trust",
+            "Trust"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "City Developments Limited",
+            "Agapier Investments Limited"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Millennium & Copthorne Hotels",
+            "Final Cash Offer"
+        ],
+        "object_type": [
+            "COMP",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "ShiftPixy Inc",
+            "ShiftPixy Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Fiscal 2018 First Quarter Results",
+            "Q1 Revenue Rose 14.6%"
+        ],
+        "object_type": [
+            "EVENT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "John Feeley",
+            "John Feeley"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Is_Member_Of",
+            "Cannot_Serve"
+        ],
+        "object": [
+            "Marine Corps",
+            "Donald Trump"
+        ],
+        "object_type": [
+            "ORG",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Crispr Therapeutics",
+            "Crispr Therapeutics"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Public Offering",
+            "Common Shares"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Waddell & Reed Financial Inc.",
+            "Waddell & Reed Financial Inc."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Has"
+        ],
+        "object": [
+            "Assets Under Management",
+            "Assets Under Management"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Broadcom",
+            "Broadcom",
+            "Broadcom"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Relate_To",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Preliminary Proxy Materials",
+            "Redomiciliation",
+            "United States"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Investors",
+            "Nasdaq Biotechnology Index"
+        ],
+        "subject_type": [
+            "CONCEPT",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Operate_In",
+            "Positive_Impact_On"
+        ],
+        "object": [
+            "Biotech",
+            "Investors"
+        ],
+        "object_type": [
+            "SECTOR",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Pope Francis",
+            "Chile",
+            "Pope Francis"
+        ],
+        "subject_type": [
+            "PERSON",
+            "GPE",
+            "PERSON"
+        ],
+        "relationship": [
+            "Impact",
+            "Is_Member_Of",
+            "Participates_In"
+        ],
+        "object": [
+            "Chile\u2019s Sexual Abuse Scandal",
+            "Roman Catholic Church",
+            "Official Address"
+        ],
+        "object_type": [
+            "EVENT",
+            "ORG",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "ICBC Standard Bank",
+            "ICBC Standard Bank",
+            "Tim Wilson",
+            "Tim Wilson"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Appoint",
+            "Has",
+            "Join",
+            "Report"
+        ],
+        "object": [
+            "Tim Wilson",
+            "Base Metals",
+            "ICBC Standard Bank",
+            "Guido Haller"
+        ],
+        "object_type": [
+            "PERSON",
+            "CONCEPT",
+            "ORG",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Chris Hemsworth",
+            "Michael Shannon",
+            "Chris Hemsworth",
+            "Elsa Pataky",
+            "Matt Damon"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "12 Strong Premiere",
+            "12 Strong Premiere",
+            "12 Strong Premiere",
+            "12 Strong Premiere",
+            "12 Strong Premiere"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "CSX Corp.",
+            "Hunter Harrison"
+        ],
+        "subject_type": [
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Require",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "Chief Executive",
+            "Railroad Board"
+        ],
+        "object_type": [
+            "PERSON",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Fiat Chrysler Automobiles",
+            "Fiat Chrysler Automobiles",
+            "Fiat Chrysler Automobiles",
+            "Fiat Chrysler Automobiles"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Operate_In",
+            "Produce",
+            "Invests_In"
+        ],
+        "object": [
+            "Integrated System Model",
+            "Italy",
+            "Jeep Models",
+            "Own Shares"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "GPE",
+            "PRODUCT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Couples"
+        ],
+        "subject_type": [
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In"
+        ],
+        "object": [
+            "Harbin Ice Festival"
+        ],
+        "object_type": [
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Pope Francis",
+            "Pope Francis"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Perform"
+        ],
+        "object": [
+            "Wedding",
+            "Wedding"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Joshua Boyle",
+            "Joshua Boyle",
+            "Joshua Boyle",
+            "Joshua Boyle",
+            "Joshua Boyle"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "Sexual Assault",
+            "Misleading Police",
+            "Unlawful Confinement",
+            "Threatening Death",
+            "Forcing Ingestion of Trazodone"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "IPSCO Tubulars Inc",
+            "IPSCO Tubulars Inc",
+            "IPSCO Tubulars Inc",
+            "IPSCO Tubulars Inc",
+            "BOFA Merrill Lynch",
+            "Morgan Stanley",
+            "J.P. Morgan"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "ORG",
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce",
+            "Announce",
+            "Participates_In",
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "IPO",
+            "Common Stock",
+            "NYSE",
+            "IPO",
+            "IPO",
+            "IPO",
+            "IPO"
+        ],
+        "object_type": [
+            "EVENT",
+            "FIN_INSTRUMENT",
+            "ORG",
+            "EVENT",
+            "EVENT",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Camden National Corp",
+            "Camden National Corp",
+            "Camden National Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Qtrly Loss Per Share",
+            "Qtrly Adjusted Operating Diluted Earnings Per Share",
+            "Qtrly Net Interest Income"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Washington REIT",
+            "Washington REIT"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Acquire",
+            "Announce"
+        ],
+        "object": [
+            "Arlington Tower",
+            "Letter of Intent"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Jay Leno",
+            "Jay Leno"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Considers",
+            "Drives"
+        ],
+        "object": [
+            "Firebird III",
+            "Firebird III"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Eclipse Residential Mortgage Investment Corporation",
+            "Eclipse Residential Mortgage Investment Corporation"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Normal Course Issuer Bid",
+            "Common Shares",
+            "FIN_INSTRUMENT"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Digi International",
+            "Digi International"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Acquires",
+            "Acquires"
+        ],
+        "object": [
+            "Accelerated Concepts",
+            "Accelerated Concepts"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "EMTA",
+            "Venezuela"
+        ],
+        "subject_type": [
+            "ORG",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Produce"
+        ],
+        "object": [
+            "Trading Recommendation",
+            "Sovereign Bonds"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "UK GDP",
+            "Global Growth",
+            "Amy Pollock"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "CONCEPT",
+            "PERSON"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact",
+            "Reports"
+        ],
+        "object": [
+            "Brexit",
+            "UK GDP",
+            "UK GDP"
+        ],
+        "object_type": [
+            "EVENT",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Axovant Sciences Ltd",
+            "Axovant Sciences Ltd",
+            "Axovant Sciences Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Discontinue",
+            "Positive_Impact_On"
+        ],
+        "object": [
+            "Negative Results",
+            "Intepirdine Program",
+            "Nelotanserin Study",
+            "Efficacy"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "PRODUCT",
+            "PRODUCT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Block.one",
+            "Galaxy Digital",
+            "Block.one",
+            "Block.one",
+            "Galaxy Digital"
+        ],
+        "subject_type": [
+            "ORG",
+            "COMP",
+            "ORG",
+            "ORG",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Invests_In",
+            "Invests_In",
+            "Invests_In"
+        ],
+        "object": [
+            "Joint Venture",
+            "Joint Venture",
+            "EOS.IO Ecosystem",
+            "Projects",
+            "EOS.IO Ecosystem Fund"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Modi",
+            "Modi",
+            "Davos Summit"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "EVENT"
+        ],
+        "relationship": [
+            "Tell",
+            "Participates_In",
+            "Relate_To"
+        ],
+        "object": [
+            "World Economic Forum",
+            "Davos Summit",
+            "Globalization"
+        ],
+        "object_type": [
+            "ORG",
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Two River Bancorp",
+            "Two River Bancorp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Reports",
+            "Reduce"
+        ],
+        "object": [
+            "2017 Fourth Quarter and Annual Financial Results",
+            "Net Deferred Tax Asset"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Weinstein Co.",
+            "Weinstein Co."
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Has"
+        ],
+        "object": [
+            "Sale Process",
+            "Board of Directors"
+        ],
+        "object_type": [
+            "EVENT",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Edelweiss Financial Services Ltd",
+            "Edelweiss Financial Services Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Interim Dividend",
+            "Consol Net Profit",
+            "Consol Total Revenue"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Australia And New Zealand Banking Group Ltd",
+            "Australia And New Zealand Banking Group Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Control",
+            "Terminate"
+        ],
+        "object": [
+            "UDC",
+            "Agreement with HNA Group"
+        ],
+        "object_type": [
+            "COMP",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "California",
+            "California"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Introduce"
+        ],
+        "object": [
+            "Recreational Marijuana Market",
+            "Recreational Marijuana Market"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Care Property Invest",
+            "Care Property Invest"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Invests_In"
+        ],
+        "object": [
+            "Public Contract",
+            "Assisted Living Apartments",
+            "PRODUCT"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Topix",
+            "Topix"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ],
+        "relationship": [
+            "Positive_Impact_On",
+            "Relate_To"
+        ],
+        "object": [
+            "Global Equities Gains",
+            "Japan"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "C.H. Robinson Worldwide Inc",
+            "C.H. Robinson Worldwide Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Has"
+        ],
+        "object": [
+            "Fourth Quarter Results",
+            "Tax Reform Benefit"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Theranexus SA",
+            "Theranexus SA",
+            "Theranexus SA"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Introduce",
+            "Produce"
+        ],
+        "object": [
+            "European Patent",
+            "THN102",
+            "THN102"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "General Electric Co",
+            "General Electric Co"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Control"
+        ],
+        "object": [
+            "After-Tax Charge",
+            "GE Capital",
+            "ORG"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Brent crude",
+            "West Texas Intermediate"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ],
+        "relationship": [
+            "Relate_To",
+            "Relate_To"
+        ],
+        "object": [
+            "Global Oil Benchmark",
+            "New York Mercantile Exchange"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Grammys",
+            "Rap and Hip-Hop",
+            "Rap and Hip-Hop",
+            "Bruno Mars"
+        ],
+        "subject_type": [
+            "EVENT",
+            "CONCEPT",
+            "CONCEPT",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Participates_In",
+            "Negative_Impact_On",
+            "Win"
+        ],
+        "object": [
+            "New York",
+            "Grammys",
+            "Winner's List",
+            "Top Prize"
+        ],
+        "object_type": [
+            "GPE",
+            "EVENT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Sumtra Diversified Inc.",
+            "Sumtra Diversified Inc."
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Acquire"
+        ],
+        "object": [
+            "Binding Letter of Intent",
+            "Mjardin Group"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "First Bancorp",
+            "Thomson Reuters"
+        ],
+        "subject_type": [
+            "COMP",
+            "ORG"
+        ],
+        "relationship": [
+            "Announce",
+            "Produce"
+        ],
+        "object": [
+            "Q4 Earnings",
+            "Earnings Per Share View",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Saudi Arabia",
+            "Saudi Arabia",
+            "First Motorshow",
+            "First Motorshow"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE",
+            "EVENT",
+            "EVENT"
+        ],
+        "relationship": [
+            "Announce",
+            "Positive_Impact_On",
+            "Operate_In",
+            "Participates_In"
+        ],
+        "object": [
+            "First Motorshow",
+            "Women's Right to Drive",
+            "Jeddah",
+            "Saudi Arabia",
+            "GPE"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "GPE",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Mevis Medical Solutions Ag",
+            "Mevis Medical Solutions Ag"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Preliminary Revenues Figures",
+            "16/17 EBIT"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Associated Press",
+            "Department of Water Resources",
+            "Erin Mellon"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORGGOV",
+            "PERSON"
+        ],
+        "relationship": [
+            "Report",
+            "Estimate",
+            "Explain"
+        ],
+        "object": [
+            "Oroville Dam",
+            "$870 million",
+            "Unforeseen events"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "ECON_INDICATOR",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Wall Street",
+            "Dow Jones Industrial Average",
+            "S&P 500",
+            "Nasdaq Composite"
+        ],
+        "subject_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ],
+        "relationship": [
+            "Negative_Impact_On",
+            "Negative_Impact_On",
+            "Negative_Impact_On",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "Industrial Stocks",
+            "Industrial Stocks",
+            "Industrial Stocks",
+            "Industrial Stocks"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Super Bowl",
+            "Aleksandra Michalska"
+        ],
+        "subject_type": [
+            "EVENT",
+            "PERSON"
+        ],
+        "relationship": [
+            "Relate_To",
+            "Announce"
+        ],
+        "object": [
+            "Football Field",
+            "Super Bowl Advertisers"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Glaxosmithkline Plc",
+            "Glaxosmithkline Plc",
+            "Glaxosmithkline Plc",
+            "Glaxosmithkline Plc",
+            "Glaxosmithkline Plc",
+            "Glaxosmithkline Plc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Positive_Impact_On",
+            "Control",
+            "Impact",
+            "Impact",
+            "Relate_To"
+        ],
+        "object": [
+            "Shingrix",
+            "Shingrix",
+            "Dividend Policy",
+            "Dividend Increase",
+            "Pfizer Consumer Business",
+            "Pfizer"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT",
+            "CONCEPT",
+            "ECON_INDICATOR",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Bluebird Bio Inc",
+            "Bluebird Bio Inc",
+            "Bluebird Bio Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Regulatory Filings",
+            "Beta Thalassemia Approval",
+            "US and EU Approval of B2121"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Donald Trump",
+            "Predatory Practices"
+        ],
+        "subject_type": [
+            "PERSON",
+            "CONCEPT"
+        ],
+        "relationship": [
+            "Announce",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "Unfair Trade",
+            "Markets"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Pakistanis",
+            "Donald Trump",
+            "U.S."
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Protest",
+            "Tweet",
+            "Aid"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Oil Prices",
+            "Oil Prices",
+            "Brent"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "FIN_INSTRUMENT"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact",
+            "Relate_To"
+        ],
+        "object": [
+            "Geopolitical Risk",
+            "Global Growth",
+            "Global Benchmark"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Stuart McDill",
+            "Smart Suitcase"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Announce",
+            "Has"
+        ],
+        "object": [
+            "Smart Suitcase",
+            "Auto-Balancing Technology"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Cannabis Wheaton Income Corp",
+            "Cannabis Wheaton Income Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise"
+        ],
+        "object": [
+            "Final Short Form Base Shelf Prospectus",
+            "$100 Million"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Krezus Sa",
+            "Krezus Sa",
+            "Boryszew",
+            "Boryszew"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Raise",
+            "Participates_In",
+            "Is_Member_Of"
+        ],
+        "object": [
+            "WM Dziedzice",
+            "160 million zlotys",
+            "Talks",
+            "Impexmetal"
+        ],
+        "object_type": [
+            "COMP",
+            "FIN_INSTRUMENT",
+            "EVENT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Walgreens Boots Alliance Inc",
+            "U.S. Tax Legislation"
+        ],
+        "subject_type": [
+            "COMP",
+            "EVENT"
+        ],
+        "relationship": [
+            "Expect",
+            "Positive_Impact_On"
+        ],
+        "object": [
+            "Cash Tax Benefit",
+            "Walgreens Boots Alliance Inc Adjusted EPS"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [
+            "Crops Corp",
+            "ISUZU BUILDING MAINTENANCE CO,.LTD",
+            "ISUZU BUILDING MAINTENANCE CO,.LTD"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Has",
+            "Acquire",
+            "Acquire"
+        ],
+        "object": [
+            "ISUZU BUILDING MAINTENANCE CO,.LTD",
+            "Yoyoginomori Kikaku Co.,Ltd.",
+            "Tokyo-based real estate management and apartment house maintenance firms"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "U.S. Senate",
+            "U.S. Senate",
+            "National Security Agency"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "ORGGOV",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Announce",
+            "Control",
+            "Produce"
+        ],
+        "object": [
+            "Bill",
+            "Internet Surveillance Program",
+            "Internet Surveillance Program"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Donald Trump",
+            "Donald Trump"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Impact",
+            "Impact"
+        ],
+        "object": [
+            "Haiti",
+            "Nigeria"
+        ],
+        "object_type": [
+            "GPE",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Tessco Technologies Inc",
+            "Tessco Technologies Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Operate_In"
+        ],
+        "object": [
+            "Third-Quarter 2018 Financial Results",
+            "Technology Sector"
+        ],
+        "object_type": [
+            "EVENT",
+            "SECTOR"
+        ]
+    },
+    {
+        "subject": [
+            "North Korea",
+            "North Korea",
+            "Two Koreas"
+        ],
+        "subject_type": [
+            "GPE",
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Request",
+            "Participates_In",
+            "Discuss"
+        ],
+        "object": [
+            "Working Talks",
+            "Pyeongchang Winter Olympics",
+            "Olympics-related Matters"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Intema Solutions Inc",
+            "Intema Solutions Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Introduce",
+            "Produce"
+        ],
+        "object": [
+            "Blockchain Applications",
+            "Artificial Intelligence Products"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "9th U.S. Circuit Court of Appeals",
+            "San Francisco",
+            "San Francisco"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Announce",
+            "Introduce",
+            "Produce"
+        ],
+        "object": [
+            "Reconsideration of Ruling",
+            "Law",
+            "Health Warnings for Soda",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Turkish Artillery",
+            "Ankara",
+            "Ankara"
+        ],
+        "subject_type": [
+            "ORG",
+            "GPE",
+            "GPE"
+        ],
+        "relationship": [
+            "Impact",
+            "Announce",
+            "Participates_In"
+        ],
+        "object": [
+            "Afrin Region",
+            "Military Campaign",
+            "Military Campaign"
+        ],
+        "object_type": [
+            "GPE",
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "U.S. government",
+            "global economy"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "CONCEPT"
+        ],
+        "relationship": [
+            "Control",
+            "Impact"
+        ],
+        "object": [
+            "bonds",
+            "U.S. government bonds"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "FIN_INSTRUMENT"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Workhorse Group Inc",
+            "Workhorse Group Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Business Update Conference Call",
+            "Order Backlog for 2018",
+            "EVENT"
+        ],
+        "object_type": [
+            "EVENT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Flushing Financial Corp",
+            "Flushing Financial Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Tax Reform",
+            "Dividend Increase Plan"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Linn Energy Inc",
+            "Linn Energy Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Raise",
+            "Announce"
+        ],
+        "object": [
+            "Fourth Quarter 2017 Guidance",
+            "Fourth Quarter 2017 Earnings Conference Call"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "National Confectioners Association"
+        ],
+        "subject_type": [
+            "ORG"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "North American cocoa grindings data",
+            "CONCEPT"
+        ],
+        "object_type": [
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Sempra Energy"
+        ],
+        "subject_type": [
+            "COMP"
+        ],
+        "relationship": [
+            "Announce"
+        ],
+        "object": [
+            "Mandatory Convertible Preferred Stock",
+            "SEC Filing"
+        ],
+        "object_type": [
+            "FIN_INSTRUMENT",
+            "ORGREG"
+        ]
+    },
+    {
+        "subject": [
+            "Mack-Cali Realty Corp",
+            "Mack-Cali Realty Corp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Appoints",
+            "Appoints"
+        ],
+        "object": [
+            "David Smetana",
+            "Anthony Krug"
+        ],
+        "object_type": [
+            "PERSON",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "U.K. Economy",
+            "U.K. Economy"
+        ],
+        "subject_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ],
+        "relationship": [
+            "Relate_To",
+            "Impact"
+        ],
+        "object": [
+            "Global Growth",
+            "European Union"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "GPE"
+        ]
+    },
+    {
+        "subject": [
+            "Logan Property Holdings",
+            "Logan Property Holdings",
+            "Logan Property Holdings",
+            "Logan Property Holdings"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Ji Jiande",
+            "Kei Hoi Pang",
+            "Chen Guanzhan",
+            "Kei Hoi Pang"
+        ],
+        "object_type": [
+            "PERSON",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ]
+    },
+    {
+        "subject": [
+            "Gearhouse Broadcast",
+            "Gearhouse Broadcast",
+            "Net Insight"
+        ],
+        "subject_type": [
+            "ORG",
+            "ORG",
+            "COMP"
+        ],
+        "relationship": [
+            "Partners With",
+            "Deploys",
+            "Produce"
+        ],
+        "object": [
+            "Net Insight",
+            "Net Insight\u2019s Remote Production 2.0 Solution",
+            "Remote Production 2.0 Solution"
+        ],
+        "object_type": [
+            "COMP",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "PCI Biotech Holding ASA",
+            "PCI Biotech Holding ASA"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Extend",
+            "Collaborate"
+        ],
+        "object": [
+            "Undisclosed Top-10 Pharma Company",
+            "Undisclosed Top-10 Pharma Company"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [],
+        "subject_type": [],
+        "relationship": [],
+        "object": [],
+        "object_type": []
+    },
+    {
+        "subject": [
+            "Volkswagen AG",
+            "Volkswagen AG",
+            "Volkswagen AG"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Control",
+            "Control",
+            "Control"
+        ],
+        "object": [
+            "Audi",
+            "Porsche",
+            "Volkswagen Canadian Unit"
+        ],
+        "object_type": [
+            "COMP",
+            "COMP",
+            "ORG"
+        ]
+    },
+    {
+        "subject": [
+            "Primeline Energy Holdings",
+            "Primeline Energy Holdings"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Granted",
+            "Engaged_In"
+        ],
+        "object": [
+            "Interim Injunction",
+            "Arbitration Proceedings"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "Fifth Third Bancorp",
+            "Fifth Third Bancorp",
+            "Fifth Third Bancorp",
+            "Fifth Third Bancorp"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce",
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Q1 NII",
+            "FY 2018 NII",
+            "Q1-2018 NIM",
+            "FY2018 NIM"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "U.S. Senate",
+            "Jerome Powell",
+            "Jerome Powell",
+            "Jerome Powell"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "PERSON",
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Announce",
+            "Is_Member_Of",
+            "Control",
+            "Relate_To"
+        ],
+        "object": [
+            "Federal Reserve",
+            "Federal Reserve",
+            "Central Bank",
+            "Monetary Policy"
+        ],
+        "object_type": [
+            "ORGREG",
+            "ORGREG",
+            "ORGREG",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Tsakos Energy Navigation",
+            "Tsakos Energy Navigation"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Produce"
+        ],
+        "object": [
+            "Sale And Leaseback",
+            "Suezmax Tankers"
+        ],
+        "object_type": [
+            "EVENT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Citigroup Inc",
+            "Citigroup Inc"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Announce",
+            "Announce"
+        ],
+        "object": [
+            "Credit Card Charge-Offs",
+            "Credit Card Delinquency Rate"
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ]
+    },
+    {
+        "subject": [
+            "Fortescue Metals Group Ltd",
+            "Fortescue Metals Group Ltd"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Produce",
+            "Decrease"
+        ],
+        "object": [
+            "Iron Ore",
+            "Iron Ore Shipments",
+            "PRODUCT"
+        ],
+        "object_type": [
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    },
+    {
+        "subject": [
+            "Russians",
+            "Russians"
+        ],
+        "subject_type": [
+            "PERSON",
+            "PERSON"
+        ],
+        "relationship": [
+            "Participates_In",
+            "Participates_In"
+        ],
+        "object": [
+            "Orthodox Epiphany",
+            "Orthodox Epiphany"
+        ],
+        "object_type": [
+            "EVENT",
+            "EVENT"
+        ]
+    },
+    {
+        "subject": [
+            "General Electric Co.",
+            "Securities and Exchange Commission",
+            "Securities and Exchange Commission"
+        ],
+        "subject_type": [
+            "COMP",
+            "ORGREG",
+            "ORGREG"
+        ],
+        "relationship": [
+            "Has",
+            "Investigate",
+            "Investigate"
+        ],
+        "object": [
+            "Accounting Practices",
+            "General Electric Co.",
+            "Revenue Recognition"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "COMP",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Indian cabinet",
+            "Indian cabinet"
+        ],
+        "subject_type": [
+            "ORGGOV",
+            "ORGGOV"
+        ],
+        "relationship": [
+            "Announce",
+            "Ease"
+        ],
+        "object": [
+            "FDI Proposal",
+            "FDI Rules for Aviation and Construction"
+        ],
+        "object_type": [
+            "CONCEPT",
+            "CONCEPT"
+        ]
+    },
+    {
+        "subject": [
+            "Electronic Arts",
+            "Electronic Arts",
+            "Electronic Arts",
+            "Star Wars Battlefront II"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP",
+            "PRODUCT"
+        ],
+        "relationship": [
+            "Operate_In",
+            "Produce",
+            "Announce",
+            "Negative_Impact_On"
+        ],
+        "object": [
+            "Videogame Business",
+            "Star Wars Battlefront II",
+            "Microtransaction System",
+            "Electronic Arts",
+            "COMP"
+        ],
+        "object_type": [
+            "SECTOR",
+            "PRODUCT",
+            "CONCEPT",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "International Business Machines Corp.",
+            "International Business Machines Corp.",
+            "Ginni Rometty"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "PERSON"
+        ],
+        "relationship": [
+            "Report",
+            "Signal",
+            "Control"
+        ],
+        "object": [
+            "Higher Revenue",
+            "Continued Growth",
+            "International Business Machines Corp."
+        ],
+        "object_type": [
+            "ECON_INDICATOR",
+            "ECON_INDICATOR",
+            "COMP"
+        ]
+    },
+    {
+        "subject": [
+            "Emerald Health Therapeutics",
+            "Emerald Health Therapeutics",
+            "Emerald Health Therapeutics"
+        ],
+        "subject_type": [
+            "COMP",
+            "COMP",
+            "COMP"
+        ],
+        "relationship": [
+            "Establish",
+            "Create",
+            "Create"
+        ],
+        "object": [
+            "DMG Blockchain Solutions",
+            "Cannabis Supply Chain Management System",
+            "E-Commerce Platform"
+        ],
+        "object_type": [
+            "COMP",
+            "PRODUCT",
+            "PRODUCT"
+        ]
+    }
+]
