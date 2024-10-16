@@ -27,5 +27,8 @@ def triplet_gpt(input_text):
         ]
     )
     result = completion.choices[0].message.content
-    result_dict = ast.literal_eval(result)
-    return result_dict
+    try:
+        result_dict = ast.literal_eval(result)
+        return result_dict
+    except:
+        return result_dict
