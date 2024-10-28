@@ -2,7 +2,7 @@ import fireworks.client
 fireworks.client.api_key = open(".fireworksAI", "r").read().strip()
 
 
-def triplet_llma(text):
+def triplet_llama(text):
     
     prompt = open("triplet_models/triplet_prompt_llama.txt", "r").read()
     
@@ -27,3 +27,7 @@ def triplet_llma(text):
     result = response.choices[0].message.content
     
     return result
+
+
+    
+    
